@@ -1,0 +1,3 @@
+package com.example.daggerimplementationcases.without_dagger.wheels
+
+class Rims

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DaggerImplementationCases</string>
+    <string name="dagger_world">Dagger World!</string>
 </resources>
