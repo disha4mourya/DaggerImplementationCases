@@ -1,8 +1,8 @@
-package com.example.daggerimplementationcases
+package com.example.daggerimplementationcases.without_dagger
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.daggerimplementationcases.without_dagger.Car
+import com.example.daggerimplementationcases.R
 import com.example.daggerimplementationcases.without_dagger.engine.Engine
 import com.example.daggerimplementationcases.without_dagger.wheels.Wheels
 import com.example.daggerimplementationcases.without_dagger.engine.Block
