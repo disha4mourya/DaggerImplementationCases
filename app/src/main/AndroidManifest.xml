@@ -9,7 +9,7 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".dagger_component_provision_methods_constructuctor_injection.DaggerOActivity">
+        <activity android:name=".field_injection.DaggerTActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
