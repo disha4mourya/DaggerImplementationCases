@@ -9,7 +9,7 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".modules_providers.DaggerMPActivity">
+        <activity android:name=".providing_interface.DaggerPIActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
