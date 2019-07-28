@@ -2,6 +2,6 @@ package com.example.daggerimplementationcases.dagger_component_provision_methods
 
 import javax.inject.Inject
 
-class Wheels @Inject constructor() {
+class WheelsTwo @Inject constructor() {
 
 }

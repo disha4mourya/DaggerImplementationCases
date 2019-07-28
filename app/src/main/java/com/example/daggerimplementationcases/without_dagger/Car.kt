@@ -15,6 +15,6 @@ class Car {
     }
 
     fun drive() {
-        Log.d("Car", "driving")
+        Log.d("CarTwo", "driving")
     }
 }

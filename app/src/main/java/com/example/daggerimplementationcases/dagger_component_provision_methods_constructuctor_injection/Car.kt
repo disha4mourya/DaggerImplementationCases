@@ -3,9 +3,9 @@ package com.example.daggerimplementationcases.dagger_component_provision_methods
 import android.util.Log
 import javax.inject.Inject
 
-class Car @Inject constructor(var engine: Engine, var wheels: Wheels) {
+class Car @Inject constructor(var engine: EngineTwo, var wheels: Wheels) {
 
     fun drive() {
-        Log.d("Car", "Driving...")
+        Log.d("CarTwo", "Driving...")
     }
 }
